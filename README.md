@@ -38,7 +38,7 @@ Mi página web con más información está disponible en:
 - 
 ## 📸 Capturas
 
-![Ejemplo bot Excel](Whatsapp_n8n.jng)
+![Ejemplo bot Excel](Whatsapp_n8n.png)
 
 ## 📬 Contacto
 
