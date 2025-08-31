@@ -18,4 +18,5 @@ Mi página web con más información está disponible en:
 
 ## 📬 Contacto
 
-Si quieres más información o colaborar, puedes ponerte en contacto conmigo.  
+Si quieres más información o colaborar, puedes ponerte en contacto conmigo:  
+📧 **juanfernanezgimenez@gmail.com**
